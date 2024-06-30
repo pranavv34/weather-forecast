@@ -65,7 +65,7 @@ function Home() {
 
   const handleLogout = () => {
     localStorage.removeItem('token');
-    navigate('/login'); // Redirect to the login page after logout
+    navigate('/'); // Redirect to the login page after logout
   };
 
   let appContent = (
@@ -213,7 +213,7 @@ function Home() {
       </Grid>
       <footer style={{ marginTop: '1rem', textAlign: 'center', color: 'white', a:Link }}>
         <br /><br />
-        <div> &copy; Copyright 2023, All rights reserved - Developed by <Link href="https://www.linkedin.com/in/pranav2036/" style={{color:'lightblue', textDecoration:'none'}}>Pranav</Link> and <Link href="https://www.linkedin.com/in/sivani-varada/" style={{color:'lightblue', textDecoration:'none'}}>Sivani</Link></div>
+        <div> &copy; Copyright 2023, All rights reserved - Developed by <Link href="https://www.linkedin.com/in/pranav2036/" style={{color:'lightblue', textDecoration:'none'}}>Pranav Vuddagiri</Link></div>
       </footer>
     </Container>
   );
