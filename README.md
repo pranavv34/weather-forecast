@@ -1,4 +1,4 @@
-# Weather Forecast
+# WEATHER FORECAST
 
 Welcome to the Weather Forecast project! This repository contains the code and resources for a full-stack web application that provides real-time weather information and forecasts.
 
