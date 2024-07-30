@@ -3,6 +3,9 @@
 # WEATHER FORECAST
 Welcome to the Weather Forecast project! This repository contains the code and resources for a full-stack web application that provides real-time weather information and forecasts.
 
+#### Note:
+This project was built for a Summer Internship task. It was mentioned in the requirements to include authentication. So the code with authentication is in the authInMern folder. The project hosted is only based on React i.e. without authentication.
+
 ## LIVE DEMO
 https://weather-forecast-blush-eta.vercel.app/
 
