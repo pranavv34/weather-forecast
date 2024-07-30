@@ -199,13 +199,7 @@ function Home() {
             />
   
             <UTCDatetime />
-            <Button // Replace the GitHub icon with a Button for logout
-              variant="contained"
-              color="secondary"
-              onClick={handleLogout}
-            >
-              Logout
-            </Button>
+            
           </Box>
           <Search onSearchChange={searchChangeHandler} />
         </Grid>
