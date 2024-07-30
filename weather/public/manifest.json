@@ -1,6 +1,6 @@
 {
-  "short_name": "The Weather App",
-  "name": "The Weather App",
+  "short_name": "The Weather Predictor App",
+  "name": "The Weather Predictor App",
   "icons": [
     {
       "src": "favicon.ico",
